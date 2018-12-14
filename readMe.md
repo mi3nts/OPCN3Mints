@@ -5,7 +5,7 @@ This library is written for [Alphasense OPC-N3](http://www.alphasense.com/WEB121
 <img src=" " height="300"/>
 
 
-## OPCN3##
+## OPCN3
 
 The Alphasense OPCN3 is an optical particle counter designed to measure and record air quality data. This implimetation is designed to read particulate mattaer data from the OPCN3 with an arduino due.
 
