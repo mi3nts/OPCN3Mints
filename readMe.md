@@ -28,4 +28,6 @@ The Alphasense OPCN3 is an Optical Particle counter designed to measure and reco
 - readPMData() ;
 - resetHistogram();
 
-
+## Repository structure
+- **/examples** - An example sketch desiged to initiate and read alpha sensor data is included here.  
+- **/src**      - Source files for the OPCN3Mints library is found here.
