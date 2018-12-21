@@ -1,6 +1,6 @@
 # OPCN3Mints
 
-This library is written for the [Alphasense OPC-N3](http://www.alphasense.com/WEB1213/wp-content/uploads/2018/02/OPC-N3.pdf) Particulate matter sensors. 
+This library is written for the [Alphasense OPC-N3](http://www.alphasense.com/WEB1213/wp-content/uploads/2018/02/OPC-N3.pdf) Particulate matter sensor. 
 
 ## Alphasense OPCN3
 <img src="https://github.com/mi3nts/OPCN3Mints/blob/master/res/OPCN3.JPG?raw=true" height="300"/>
