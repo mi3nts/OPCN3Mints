@@ -35,14 +35,14 @@ The Alphasense OPCN3 is an Optical Particle counter designed to measure and reco
 
 ## On a Nano 
 
-| Nano        | OPC | OPC Pin | Color  |
-|-------------|-----|---------|--------|
-| Vcc         | Vcc | 1       | Red    |
-| Sck         | Sck | 2       | Blue   |
-| MISO        | SDO | 3       | Yellow |
-| MOSI        | SDI | 4       | Green  |
-| Digital Pin | SS  | 5       | White  |
-| Gnd         | GND | 6       | Black  |
+| Nano        | OPC | OPC Pin | Color  | Nano Pin |
+|-------------|-----|---------|--------|----------|
+| Vcc         | Vcc | 1       | Red    |5V        |
+| Sck         | Sck | 2       | Yellow |D13       |
+| MISO        | SDO | 3       | Green  |D12       |
+| MOSI        | SDI | 4       | Blue   |D11       |
+| Digital Pin | SS  | 5       | White  |D10       |
+| Gnd         | GND | 6       | Black  |Gnd       |
 
 
 
